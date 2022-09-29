@@ -1,0 +1,22 @@
+body{
+    margin:0;
+    background:hsl(30, 1%, 30%);
+    overflow:hidden;
+    text-align:center;
+}
+#myCanvas{
+    background: rgb(134, 134, 134);
+
+}
+
+#info {
+	position: absolute;
+	top: 10px;
+	width: 100%;
+	text-align: right ;
+	z-index: 100;
+	display:block;
+    
+}
+
+
