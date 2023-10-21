@@ -70,6 +70,7 @@ class Particles{
 
 
 
+
     drawcircle1(ctx){
         ctx.beginPath();
         ctx.arc(this.x1,this.y1,this.radius1, 0, 2 * Math.PI);
